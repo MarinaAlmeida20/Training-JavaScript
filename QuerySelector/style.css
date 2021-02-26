@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    width: 90%;
+    max-width: 960px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+button {
+  padding: 50px;
+  background-color: #fff;
+  border: 2px solid #fafafa;
+  font-size: 50px;
+  color: #000;
+  line-height: 1;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin: 0;
+}
+
+button:hover {
+    background-color: transparent;
+    color: #fff;
+}
