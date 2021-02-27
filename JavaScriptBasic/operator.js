@@ -15,3 +15,10 @@ console.log((num2 + num1) / (8 + 2)); // 6
 // Increment and decrement operators
 // increment (++)
 // decrement (--)
+let num3 = 4;
+num3++;
+console.log(num3); //5
+
+let num4 = 6;
+num4--;
+console.log(num4); //5
